@@ -1,4 +1,13 @@
 ### Hi there 👋
+### I'm Laurent.
+
+### Languages:
+JavaScript
+HTML5
+CSS
+php
+Java
+
 
 <!--
 **bcsirt/bcsirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
